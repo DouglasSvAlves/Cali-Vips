@@ -9,7 +9,8 @@ O objetivo é oferecer uma forma prática e automatizada de gerenciar benefício
 
 ## ✨ Funcionalidades
 - ⏱️ **Pagamentos automáticos** para jogadores VIP em intervalos configuráveis (ex.: a cada 30 minutos).  
-- 🔗 **Integração com [Badger Discord API](https://github.com/JaredScar/Badger_Discord_API)**.  
+- 🔗 **Integração com [Badger Discord API](https://github.com/JaredScar/Badger_Discord_API)**.
+- 🔗 **Registro de Logs via Web-hooks do Discord**.   
 - 👥 Verificação em tempo real dos **cargos do Discord** vinculados ao jogador.  
 - 🚫 Se o jogador perder o cargo VIP no Discord, o benefício é automaticamente removido.  
 - 💵 Salário recebido diretamente **in-game** na carteira/banco do player.  
